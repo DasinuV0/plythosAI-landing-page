@@ -8,7 +8,7 @@ export default function PerformanceSection() {
   const metrics = [
     {
       title: "Success Rate",
-      value: "42%",
+      value: "78.75%",
       comparison: "vs ChatGPT",
       description: "Higher negotiation success rate compared to generic AI",
       icon: "solar:chart-bold",
